@@ -1,0 +1,45 @@
+---
+title: Rental Car Insurance
+subtitle: Demystified
+layout: default
+modal-id: 3
+date: 2019-12-12
+img: escape.png
+thumbnail: car-insurance-thumbnail.png
+author: Jen
+alt: rental-car
+project-date: December 12, 2019
+category: Web Development
+description: We've all been there. The agent at the car rental agency asks you if you want to buy their insurance package. And after declining it, they make you feel guilty about doing so. We'll demystify what they're actually selling you.
+---
+
+You've booked your trip to Florida. A week of sand and sun is going to be amazing! You've rented a car for the week through Priceline because you want the flexibility to go to and from the beach, go shopping, and out to eat. When you arrive at the rental counter at the airport you are presented with the menu of car insurance. You decline, but in the back of your mind you didn't really know what you were declining. You're not sure if you're going to be fully covered while driving this vehicle.
+
+If you own a car and have it insured, it's always a good idea to check with your broker what kind of coverage you have on rental cars. You could be already covered for everything you need. Here, we will outline what your options are if you are **not** already covered.
+
+#### Third-Party Car Rental Insurance
+
+Most of us book our car rentals through online travel agencies such as Priceline, Kayak or Hotwire. When you make your booking, you'll be prompted to purchase car insurance. What they're selling you is collision damage coverage. This insurance will cover you if there is any damage to the vehicle while you have it. This won't cover any personal injury or third part liability.
+
+#### Credit Card Insurance
+
+Many credit cards these days offer rental car insurance when you pay for the balance on the card, as long as you decline the insurance coverage offered by the rental agency. Similar to the third party option, this probably only covers damage and not liability or personal injury.
+
+#### At The Rental Counter
+
+At the rental counter they will offer you different options for coverage. There are 4 main categories.
+
+1. Loss Damage Waiver or Collision Damage Waiver
+- This is the same thing as what you're getting from Priceline or your credit card. No need to have more than one of these.
+2. Liability Coverage
+- In the case you were at fault in a collision and the other party makes a claim against you for their injuries or damage. Coverage is usually on the order of 1-2 million.
+3. Personal Accident Coverage
+- Covers any medical treatments you incur after a collision.
+4. Personal Effects Coverage
+- Covers your lost/stolen personal belongings if the vehicle was broken into.
+
+Depending on the rental agency they might offer packages, or they might have options a la carte. Use your own discretion and think about it before you depart for your trip. Don't let any agent pressure you into something you don't understand.
+
+One thing to consider is that if you decline the insurance offered at the counter, you will need to submit a claim through your credit card or Priceline. Meaning, if there is damage to the car you'll have to pay the car rental agency and file for reimbursement from your credit card provider.
+
+To conclude, no one should be driving without car insurance no matter the circumstances. But it's also important to be informed of your options when you're traveling!

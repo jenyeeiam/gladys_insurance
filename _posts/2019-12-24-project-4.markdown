@@ -1,0 +1,42 @@
+---
+title: Cash or Card
+subtitle: How much and when
+layout: default
+modal-id: 4
+date: 2019-12-24
+img: escape.png
+thumbnail: credit-card-thumbnail.png
+author: Jen
+alt: credit-card
+project-date: December 24, 2019
+category: Web Development
+description: When traveling it's important to have different modes of payment. The street market will most likely only accept cash, but the hotel you'll need to put a deposit down on a credit card. There's also the unfortunate circumstance that your wallet gets lost or stolen and you need to have a Plan B. Here's some thoughts for your next trip.
+---
+
+#### Before Departure
+
+If you travel more than a couple times a year abroad it's a good idea to look into a credit card that does not charge foreign transaction fees. Nine out of ten credit cards on the market will charge you an extra 2.5% off the top of every transaction you make under a foreign currency. This can add up over the course of a trip! Such a card can be useful as well if you're ever shopping on an online store from another country. Finding the right card can be really worthwhile in saving some extra cash here and there.
+
+Depending on what country you're traveling to, it can also be a good idea to purchase some foreign currency before you go. For example, if you're American and traveling to Canada or Europe, you're likely to get a good exchange at your local exchange office or bank because those currencies are readily available. If you're going to Ulaanbaatar however, Mongolian currency is probably going to be hard to come by at your bank, and if it is available they will most likely charge you a markup.
+
+*Confession. I'm lazy and often forget to buy foreign currency before I go somewhere. Never fail are the exchange kiosks at the airport.*
+
+I generally only purchase $200 worth of foreign currency when I travel. I don't like to have a lot of money on me especially if I'm traveling alone. But it is nice to have some bills at hand if I need to tip a porter or taxi wherever I'm going.   
+
+#### (Local) Cash is King!
+
+When you're shopping during your trip, assuming you're equipped with your fancy credit card without foreign transaction fees, try to use this whenever possible. But, there will always be merchants that don't take cards, so whenever you pay in cash **always** pay in the local currency even when the merchant accepts your home currency. If the merchant accepts USD for example, *they* are determining the exchange rate which will probably be some rounded up version relative to the actual rate. This also applies if you're paying by credit card. Sometimes, the machine has an option to pay in the local currency or your own currency. Select the local currency option for the same reasons.
+
+##### ATMs
+
+Foreign ATMs charge you a handful of fees on top of your 2.5% off the top, but sometimes they're a necessary evil when you're traveling. Because of the fees, it's better to take out decently large sums at a time.
+
+#### Words of Safety
+
+- Use that safe in the hotel room! **DO NOT** walk around with all of your cash and cards on you. If your wallet gets stolen then you're really hooped. Walk around with enough cash you need for the day and leave your backup cards in the safe.
+
+- Use ATM's at banks, preferably in daylight hours.
+
+- Never keep your phone or wallet in your back pocket, especially in crowded areas and on public transit. Pickpocketing is real, and in some places an organized operation.
+
+- If traveling in a country where scooters are common, carry your purse or bag on the arm that is farthest away from the street. It is very easy for a scooter to drive up close to you while you're walking and snatch your bag if it is dangling close to the street.

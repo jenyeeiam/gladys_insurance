@@ -1,0 +1,56 @@
+url: https://thetravelegg.com/
+baseurl: ""
+
+# Site settings
+title: Rising Sun
+email: your-email@domain.com
+description: "Taking the stress out of planning a vacation"
+thumbnail: img/thumbnail.jpg
+google_analytics: UA-154623734-1
+
+
+# Team names, titles and social links
+people:
+- name: Glendon D. Nelson Jr., CIC
+  pic: 1
+  position: Commercial Insurance Broker
+  social:
+    - title: instagram
+      url: https://www.instagram.com/insta_jenyee/
+    - title: linkedin
+      url: https://www.linkedin.com/in/glendon-d-nelson-jr-cic-22548b13/
+    - title: inbox
+      url: mailto:jennifer.yee@olympian.org
+
+- name: Hillary
+  pic: 2
+  position: Lead Marketer and Travel Consultant
+  social:
+    - title: instagram
+      url: https://www.instagram.com/hillarynicholenelson/
+    - title: linkedin
+      url: https://www.linkedin.com/in/hillary-nelson-43a45916/
+    - title: inbox
+      url: mailto:hillary@tripsandships.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,24 @@
+---
+title: Hotels vs Airbnb
+subtitle: What To Consider When Booking
+layout: default
+modal-id: 2
+date: 2019-12-05
+img: escape.png
+thumbnail: hotel-thumbnail.png
+author: Jen
+alt: hotel-room
+project-date: December 5, 2019
+category: Web Development
+description: There are so many options when choosing accommodations for your trip. Here's our take on when to consider.
+---
+
+The name Airbnb is short for "Air Bed and Breakfast." The founders of the company were strapped for cash and were struggling to make rent every month, so they decided to rent out the extra space in their San Francisco apartment. They blew up some air mattresses, offered their guests some cereal and the idea for Airbnb was born.
+
+A lot has changed since then. The sentiment towards sharing an extra bedroom and befriending your guests is somewhat departed from what Airbnb is today. Much to the chagrin of local government officials, people buy up apartments or properties and rent them out on Airbnb in order to create a secondary source of income. Because the properties on Airbnb are not regulated, there is a huge variance in quality. For hotels, there is a general understanding of what a 2 star hotel looks like and what a 5 star hotel looks like. Likewise across the chains of Best Western, Double Tree and Sheraton, as a patron you can have a general idea of what you're getting once you book. You don't have that luxury with an Airbnb. Photos of spaces are professionally taken, and can be misleading of a space. Hotels also take professional photos of their property but there is less variance in *sleeping arrangements* like an Airbnb. Your traveling partners could be sleeping on couches or blowing up air mattresses after a late check which is never fun. Airbnb hosts are motivated to list the most number for guests it can host in their space. Whether it's comfortable or not is a different question because the more guests the space can hold, the higher the value on the space. So all in all, read the listing carefully and always cross check prices with the hotels in the area.     
+
+Another thing to consider is that there is no on-site concierge at an Airbnb. Many times you won't meet your host to check in, the keys will be in a lockbox by the front door. In this case, if there is anything wrong with the apartment, there is not much you can do about the situation. Even if you are granted a refund (not easy), you are still responsible for finding a new place to stay.
+
+That being said, Airbnbs are not all bad. If I am traveling and I anticipate using the accommodations a lot, then I might book an Airbnb. It is nice to have access to a full kitchen, a couch and laundry facilities. And if you are traveling with a large party you can rent out a whole house and have everyone in the same space, which you wouldn't be able to do with a hotel. If you decide to book a private room and share the space with the host, they can give you some good tips on the local area.  
+
+In conclusion, there are pros and cons associated with hotels and Airbnbs both. What's most important is doing your homework, reading the fine print and remembering that price isn't everything. If it's too good to be true, it probably is!

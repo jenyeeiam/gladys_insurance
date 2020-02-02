@@ -1,0 +1,26 @@
+---
+title: Travel Insurance
+subtitle: Do I Need It? (Yes)
+layout: default
+modal-id: 5
+date: 2020-01-01
+img: escape.png
+thumbnail: insurance-thumbnail.png
+author: Jen
+alt: insurance
+project-date: January 1, 2020
+category: Web Development
+description: Getting sick on vacation is never a good time. Even while being extra diligent with where you're eating, you can still catch a case of the stomach bug.
+---
+
+Food poisoning is the most common ailment when it comes to traveling. Even taking the necessary precautions such as avoiding street vendors, taking drinks without ice and drinking bottled water, you're not immune from getting sick.
+
+Most of the time, a case a food poisoning last a good 48 hours. You're stuck in your hotel room drinking sports drinks, eating jellies and you're out of the woods. But what happens when you're worse off than a mild case of food poisoning?
+
+I always recommend having travel insurance when traveling for a **week or more**. Even if you are from Canada and are traveling to the US, an ER visit could cost you to a couple thousand dollars! So it's definitely worth it to pay the few dollars per day for supplementary coverage.
+
+Before you buy travel insurance, check with your current health insurance plan as you might already be covered for some things. Same goes with the credit card you booked your trip with. These types of coverage will most likely cover the cost if you need to be admitted to the hospital or your bag is lost while traveling. If you need a prescription for your stomach bug, that's probably not covered, but always read the fine print or call your provider.
+
+If you choose to buy supplementary coverage, try to choose a plan that covers the things your credit card does not. There are many options out available on the internet so I won't list them here, but the great thing about these plans are they are more comprehensive. For example, if your trip gets cut short due to unforeseen circumstances like sickness, family emergencies, or weather, these plans could reimburse you for the remaining cost of your trip. These plans will also cover prescriptions, lost luggage, or the case your travel supplier files for bankruptcy.
+
+In most cases the bare minimum coverage is sufficient. The point is that travel insurance is important, and it shouldn't be overlooked. Choose the plan that's right for you and let yourself relax and have fun on your trip!

@@ -1,0 +1,33 @@
+---
+title: The Ultimate Travel Checklist
+subtitle: The Must Haves for Any Trip
+layout: default
+modal-id: 1
+date: 2019-11-28
+img: dreams.png
+thumbnail: todo-thumbnail.png
+author: Jen
+alt: travel-checklist
+project-date: November 28, 2019
+category: Web Development
+description: Whether it's your first or your fiftieth trip there are some must haves and must do's. Here's our list.
+
+---
+
+#### For the suitcase
+There are a ton of packing lists out there, this isn't one of them. It really depends on your trip! Do you have access to laundry facilities? Are you changing hotels or AirBnbs every couple nights? Is it a hot climate or a cold climate? In the end, it is not the worst thing to check a bag. If it makes packing a toiletry bag easier, or if it allows you to do some shopping while on your trip, then all the power to you. Sometimes traveling is about comfort and not about saving $60. The only must have on our trips is sufficient pairs of underwear.
+
+While we don't have a good packing list, we do have some good tips to make your trip a little bit easier.
+
+#### Before you go
+
+**If traveling to a foreign country**
+1. Take a picture of your passport. Store it in the cloud and print it off. In the unfortunate event your passport is lost or stolen, it makes it easier when you go to the embassy if you have a copy already.
+2. If you're going to a country where English is not the first language, download the dictionary on Google Translate. By downloading the dictionary, it allows you to make translations on the app without an internet connection.
+3. Take a picture of your checked back (if applicable). In the case your bag is lost, in addition to having the barcode from the bag receipt you will be asked to describe your bag. Having a picture already makes this much easier.
+4. Find out what the voltage and frequency of the electric outlets for the country you're traveling to. It is not necessary to buy an adaptor before you go as they are often expensive and they might not even work. If you ask the front desk of the hotel they might have some extras, or they can direct you to where you can buy an adaptor that will work for you.
+5. Travel Insurance. Often overlooked, it's an inexpensive thing to check off the list that can save you a lot of money if you get injured or sick.
+
+**For Domestic Travel**
+1. If renting a car, ensure you have the appropriate coverage. I deny all the coverage that the car rental offers me because I am already covered by my own car insurance at home. Read the fine print of your auto insurance plan, or ask your broker if you are covered for rentals. Many credit cards also offer some form of insurance for car rentals. Again, read the fine print it will pay off in the end
+2. If staying at an Airbnb, read the check in instructions and make sure to be in contact with the host a few days before your trip. Save the host's phone number in your phone if you need to contact them for anything else.
